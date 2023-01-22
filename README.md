@@ -20,7 +20,7 @@ Result from RandomOverSampler</br>
 * Accuracy = 66.20%</br>
 * Precision = 99%</br>
 * Recall = 60%</br>
-![RandomOverSampler](/images/RandomOverSampler.jpg)</br>
+![RandomOverSampler](images/RandomOverSampler.jpg)</br>
 </br>
 Result from SMOTE</br>
 * Accuracy = 65.68%</br>
