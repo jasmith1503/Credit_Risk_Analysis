@@ -22,11 +22,11 @@ Result from RandomOverSampler</br>
 * Recall = 60%</br>
 ![RandomOverSampler](/images/RandomOverSampler.jpg)</br>
 </br>
-Result from ```SMOTE```</br>
+Result from SMOTE</br>
 * Accuracy = 65.68%</br>
 * Precision = 99%</br>
 * Recall = 69%</br>
-![SMOTE](images/SMOTE.jpg)</br>
+![SMOTE](/images/SMOTE.jpg)</br>
 </br>
 Result from RandomUnderSampler</br>
 * Accuracy = 60.27%</br>
