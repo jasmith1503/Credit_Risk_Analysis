@@ -20,25 +20,25 @@ Result from ```RandomOverSampler```</br>
 * Accuracy = 66.20%</br>
 * Precision = 99%</br>
 * Recall = 60%</br>
-</br>![RandomOverSampler](/images/RandomOverSampler.jpg)</br>
+![RandomOverSampler](/images/RandomOverSampler.jpg)</br>
 </br>
 Result from ```SMOTE```</br>
 * Accuracy = 65.68%</br>
 * Precision = 99%</br>
 * Recall = 69%</br>
-</br>![SMOTE](/images/SMOTE.jpg)</br>
+![SMOTE](/images/SMOTE.jpg)</br>
 </br>
 Result from ```RandomUnderSampler```</br>
 * Accuracy = 60.27%</br>
 * Precision = 99%</br>
 * Recall = 59%</br>
-</br>![RandomUnderSampler](/images/RandomUnderSampler.jpg)</br>
+![RandomUnderSampler](/images/RandomUnderSampler.jpg)</br>
 </br>
 Result from ```SMOTEENN```</br>
 * Accuracy = 64.61%</br>
 * Precision = 99%</br>
 * Recall = 57%</br>
-</br>![SMOTEEN](/images/SMOTEEN.jpg)</br>
+![SMOTEEN](/images/SMOTEEN.jpg)</br>
 </br>
 Result from ```BalancedRandomForestClassifier```</br>
 * Accuracy = 78.85%</br>
