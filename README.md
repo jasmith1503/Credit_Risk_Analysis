@@ -27,6 +27,7 @@ Result from SMOTE</br>
 * Precision = 99%</br>
 * Recall = 69%</br>
 ![SMOTE](/images/SMOTE.jpg)</br>
+![RandomOverSampler](images/RandomOverSampler.jpg)</br>
 </br>
 Result from RandomUnderSampler</br>
 * Accuracy = 60.27%</br>
@@ -45,11 +46,14 @@ Result from BalancedRandomForestClassifier</br>
 * Precision = 99%</br>
 * Recall = 87%</br>
 </br>![BalancedRandomForestClassifier](/images/BalancedRandomForestClassifier.jpg)</br>
+![RandomOverSampler](images/RandomOverSampler.jpg)</br>
 </br>
 Result from EasyEnsembleClassifier</br>
 * Accuracy = 93.16%</br>
 * Precision = 99%</br>
 * Recall = 94%</br>
+</br>![EasyEnsembleClassifier](/images/EasyEnsembleClassifier.jpg)</br>
+![RandomOverSampler](images/RandomOverSampler.jpg)</br>
 </br>![EasyEnsembleClassifier](/images/EasyEnsembleClassifier.jpg)</br>
 
 ## Summary 
