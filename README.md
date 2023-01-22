@@ -23,33 +23,33 @@ Result from ```RandomOverSampler```</br>
 </br>![RandomOverSampler](/images/RandomOverSampler.jpg)</br>
 </br>
 Result from ```SMOTE```</br>
-Accuracy = 65.68%</br>
-Precision = 99%</br>
-Recall = 69%</br>
+* Accuracy = 65.68%</br>
+* Precision = 99%</br>
+* Recall = 69%</br>
 </br>![SMOTE](/images/SMOTE.jpg)</br>
 </br>
 Result from ```RandomUnderSampler```</br>
-Accuracy = 60.27%</br>
-Precision = 99%</br>
-Recall = 59%</br>
+* Accuracy = 60.27%</br>
+* Precision = 99%</br>
+* Recall = 59%</br>
 </br>![RandomUnderSampler](/images/RandomUnderSampler.jpg)</br>
 </br>
 Result from ```SMOTEENN```</br>
-Accuracy = 64.61%</br>
-Precision = 99%</br>
-Recall = 57%</br>
+* Accuracy = 64.61%</br>
+* Precision = 99%</br>
+* Recall = 57%</br>
 </br>![SMOTEEN](/images/SMOTEEN.jpg)</br>
 </br>
 Result from ```BalancedRandomForestClassifier```</br>
-Accuracy = 78.85%</br>
-Precision = 99%</br>
-Recall = 87%</br>
+* Accuracy = 78.85%</br>
+* Precision = 99%</br>
+* Recall = 87%</br>
 </br>![BalancedRandomForestClassifier](/images/BalancedRandomForestClassifier.jpg)</br>
 </br>
 Result from ```EasyEnsembleClassifier```</br>
-Accuracy = 93.16%</br>
-Precision = 99%</br>
-Recall = 94%</br>
+* Accuracy = 93.16%</br>
+* Precision = 99%</br>
+* Recall = 94%</br>
 </br>![EasyEnsembleClassifier](/images/EasyEnsembleClassifier.jpg)</br>
 
 ## Summary 
