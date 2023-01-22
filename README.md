@@ -16,18 +16,18 @@ Below is a list of tasks which will be completed:
 * Use Ensemble Classifiers to Predict Credit Risk.
 
 ## Summary of different Machine Learning Algarythims
-Result from RandomOverSampler</br>
-* Accuracy = 66.20%</br>
-* Precision = 99%</br>
-* Recall = 60%</br>
-![RandomOverSampler](images/RandomOverSampler.jpg)</br>
+Result from RandomOverSampler </br>
+* Accuracy = 66.20% </br>
+* Precision = 99% </br>
+* Recall = 60% </br>
+![RandomOverSampler](images/RandomOverSampler.jpg)
 </br>
-Result from SMOTE</br>
-* Accuracy = 65.68%</br>
-* Precision = 99%</br>
-* Recall = 69%</br>
-![SMOTE](/images/SMOTE.jpg)</br>
-![RandomOverSampler](images/RandomOverSampler.jpg)</br>
+Result from SMOTE </br>
+* Accuracy = 65.68% </br>
+* Precision = 99% </br>
+* Recall = 69% </br>
+![SMOTE](/images/SMOTE.jpg)
+</br>
 </br>
 Result from RandomUnderSampler</br>
 * Accuracy = 60.27%</br>
@@ -52,8 +52,6 @@ Result from EasyEnsembleClassifier</br>
 * Accuracy = 93.16%</br>
 * Precision = 99%</br>
 * Recall = 94%</br>
-</br>![EasyEnsembleClassifier](/images/EasyEnsembleClassifier.jpg)</br>
-![RandomOverSampler](images/RandomOverSampler.jpg)</br>
 </br>![EasyEnsembleClassifier](/images/EasyEnsembleClassifier.jpg)</br>
 
 ## Summary 
