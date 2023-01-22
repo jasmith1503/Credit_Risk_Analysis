@@ -51,3 +51,7 @@ Accuracy = 93.16%</br>
 Precision = 99%</br>
 Recall = 94%</br>
 </br>![EasyEnsembleClassifier](/images/EasyEnsembleClassifier.jpg)</br>
+
+## Summary 
+
+## Recommendations
