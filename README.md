@@ -29,30 +29,32 @@ Result from SMOTE </br>
 ![SMOTE](/images/SMOTE.jpg)
 </br>
 </br>
-Result from RandomUnderSampler</br>
-* Accuracy = 60.27%</br>
-* Precision = 99%</br>
-* Recall = 59%</br>
+Result from RandomUnderSampler </br>
+* Accuracy = 60.27% </br>
+* Precision = 99% </br>
+* Recall = 59% </br>
 ![RandomUnderSampler](/images/RandomUnderSampler.jpg)</br>
 </br>
-Result from SMOTEENN</br>
+![RandomOverSampler](images/RandomOverSampler.jpg)
+</br>
+Result from SMOTEENN </br>
 * Accuracy = 64.61%</br>
 * Precision = 99%</br>
 * Recall = 57%</br>
 ![SMOTEEN](/images/SMOTEEN.jpg)</br>
 </br>
-Result from BalancedRandomForestClassifier</br>
+Result from BalancedRandomForestClassifier </br>
 * Accuracy = 78.85%</br>
 * Precision = 99%</br>
 * Recall = 87%</br>
 </br>![BalancedRandomForestClassifier](/images/BalancedRandomForestClassifier.jpg)</br>
 ![RandomOverSampler](images/RandomOverSampler.jpg)</br>
 </br>
-Result from EasyEnsembleClassifier</br>
+Result from EasyEnsembleClassifier </br>
 * Accuracy = 93.16%</br>
 * Precision = 99%</br>
 * Recall = 94%</br>
-</br>![EasyEnsembleClassifier](/images/EasyEnsembleClassifier.jpg)</br>
+![EasyEnsembleClassifier](/images/EasyEnsembleClassifier.jpg)</br>
 
 ## Summary 
 After reviewing and checking 6 different machine learning methods the best one suited to the data is the ```EasyEnsembleClassifier``` module from ```imblearn.ensemble```. This method had the highest accuracy score of 93.16%. 
