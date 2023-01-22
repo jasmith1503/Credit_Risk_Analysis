@@ -16,39 +16,38 @@ Below is a list of tasks which will be completed:
 * Use Ensemble Classifiers to Predict Credit Risk.
 
 ## Summary of different Machine Learning Algarythims
-</br>![TotalSummary](/Resources/Part2Step3.jpg)</br>
-Result from RandomOverSampler</br>
+Result from ```RandomOverSampler```</br>
 * Accuracy = 66.20%</br>
 * Precision = 99%</br>
 * Recall = 60%</br>
 </br>![RandomOverSampler](/images/RandomOverSampler.jpg)</br>
-
-Result from SMOTE</br>
+</br>
+Result from ```SMOTE```</br>
 Accuracy = 65.68%</br>
 Precision = 99%</br>
-Recall = 60%</br>
+Recall = 69%</br>
 </br>![SMOTE](/images/SMOTE.jpg)</br>
-
-Result from RandomUnderSampler</br>
+</br>
+Result from ```RandomUnderSampler```</br>
 Accuracy = 60.27%</br>
 Precision = 99%</br>
 Recall = 59%</br>
 </br>![RandomUnderSampler](/images/RandomUnderSampler.jpg)</br>
-
-Result from SMOTEENN</br>
+</br>
+Result from ```SMOTEENN```</br>
 Accuracy = 64.61%</br>
 Precision = 99%</br>
 Recall = 57%</br>
 </br>![SMOTEEN](/images/SMOTEEN.jpg)</br>
-
-Result from BalancedRandomForestClassifier</br>
+</br>
+Result from ```BalancedRandomForestClassifier```</br>
 Accuracy = 78.85%</br>
-Precision = FF%</br>
-Recall = FFF%</br>
+Precision = 99%</br>
+Recall = 87%</br>
 </br>![BalancedRandomForestClassifier](/images/BalancedRandomForestClassifier.jpg)</br>
-
-Result from EasyEnsembleClassifier</br>
+</br>
+Result from ```EasyEnsembleClassifier```</br>
 Accuracy = 93.16%</br>
-Precision = FF%</br>
-Recall = FFF%</br>
+Precision = 99%</br>
+Recall = 94%</br>
 </br>![EasyEnsembleClassifier](/images/EasyEnsembleClassifier.jpg)</br>
