@@ -17,33 +17,38 @@ Below is a list of tasks which will be completed:
 
 ## Summary of different Machine Learning Algarythims
 </br>![TotalSummary](/Resources/Part2Step3.jpg)</br>
-Result from RandomOverSampler
-Accuracy = 66.20%
-Precision = 99%
-Recall = 60%
+Result from RandomOverSampler</br>
+* Accuracy = 66.20%</br>
+* Precision = 99%</br>
+* Recall = 60%</br>
+</br>![RandomOverSampler](/images/RandomOverSampler.jpg)</br>
 
-Result from SMOTE
-Accuracy = 65.68%
-Precision = 99%
-Recall = 60%
+Result from SMOTE</br>
+Accuracy = 65.68%</br>
+Precision = 99%</br>
+Recall = 60%</br>
+</br>![SMOTE](/images/SMOTE.jpg)</br>
 
-Result from RandomUnderSampler
-Accuracy = 60.27%
-Precision = 99%
-Recall = 59%
+Result from RandomUnderSampler</br>
+Accuracy = 60.27%</br>
+Precision = 99%</br>
+Recall = 59%</br>
+</br>![RandomUnderSampler](/images/RandomUnderSampler.jpg)</br>
 
-Result from SMOTEENN
-Accuracy = 64.61%
-Precision = 99%
-Recall = 57%
+Result from SMOTEENN</br>
+Accuracy = 64.61%</br>
+Precision = 99%</br>
+Recall = 57%</br>
+</br>![SMOTEEN](/images/SMOTEEN.jpg)</br>
 
+Result from BalancedRandomForestClassifier</br>
+Accuracy = 78.85%</br>
+Precision = FF%</br>
+Recall = FFF%</br>
+</br>![BalancedRandomForestClassifier](/images/BalancedRandomForestClassifier.jpg)</br>
 
-Result from BalancedRandomForestClassifier
-Accuracy = 78.85%
-Precision = FF%
-Recall = FFF%
-
-Result from EasyEnsembleClassifier
-Accuracy = 93.16%
-Precision = FF%
-Recall = FFF%
+Result from EasyEnsembleClassifier</br>
+Accuracy = 93.16%</br>
+Precision = FF%</br>
+Recall = FFF%</br>
+</br>![EasyEnsembleClassifier](/images/EasyEnsembleClassifier.jpg)</br>
