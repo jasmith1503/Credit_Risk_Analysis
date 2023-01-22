@@ -14,3 +14,36 @@ Below is a list of tasks which will be completed:
 * Use Resampling Models to Predict Credit Risk.
 * Use the SMOTEENN Algorithm to Predict Credit Risk.
 * Use Ensemble Classifiers to Predict Credit Risk.
+
+## Summary of different Machine Learning Algarythims
+</br>![TotalSummary](/Resources/Part2Step3.jpg)</br>
+Result from RandomOverSampler
+Accuracy = 66.20%
+Precision = 99%
+Recall = 60%
+
+Result from SMOTE
+Accuracy = 65.68%
+Precision = 99%
+Recall = 60%
+
+Result from RandomUnderSampler
+Accuracy = 60.27%
+Precision = 99%
+Recall = 59%
+
+Result from SMOTEENN
+Accuracy = 64.61%
+Precision = 99%
+Recall = 57%
+
+
+Result from BalancedRandomForestClassifier
+Accuracy = 78.85%
+Precision = FF%
+Recall = FFF%
+
+Result from EasyEnsembleClassifier
+Accuracy = 93.16%
+Precision = FF%
+Recall = FFF%
