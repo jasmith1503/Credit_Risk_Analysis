@@ -22,19 +22,18 @@ Result from RandomOverSampler </br>
 * Recall = 60% </br>
 ![RandomOverSampler](images/RandomOverSampler.jpg)
 
-Result from SMOTE
-* Accuracy = 65.68%
-* Precision = 99%
-* Recall = 69%
+Result from SMOTE </br>
+* Accuracy = 65.68% </br>
+* Precision = 99% </br>
+* Recall = 69% </br>
 ![SMOTE](/images/SMOTE.jpg)
-</br>
-</br>
+
 Result from RandomUnderSampler </br>
 * Accuracy = 60.27% </br>
 * Precision = 99% </br>
 * Recall = 59% </br>
-![RandomUnderSampler](/images/RandomUnderSampler.jpg)</br>
-</br>
+![RandomUnderSampler](/images/RandomUnderSampler.jpg) </br>
+
 ![RandomOverSampler](images/RandomOverSampler.jpg)
 </br>
 Result from SMOTEENN </br>
