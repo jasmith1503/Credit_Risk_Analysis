@@ -4,7 +4,7 @@ Module 18 Challenge - Supervised Machine Learning
 ## Resources
 Operating Platform: Windows 11 Pro - Build 22621 [Buy Windows 11 Pro](https://www.microsoft.com/en-us/d/windows-11-pro/dg7gmgf0d8h4?rtc=1)</br>
 IDE Software: [Jupyter Notebook](https://jupyter.org/) Verison 6.5.2 ()</br>
-Python Kernel: 3.7.13
+Python Kernel: 3.7.13</br>
 Completed Jupyter Notebooks: [credit_risk_resampling](credit_risk_resampling.ipynb), [credit_risk_ensemble](credit_risk_ensemble.ipynb)</br>
 Resource files: [LoanStats](/Resources/LoanStats_2019Q1.csv)
 
