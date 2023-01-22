@@ -53,5 +53,7 @@ Recall = 94%</br>
 </br>![EasyEnsembleClassifier](/images/EasyEnsembleClassifier.jpg)</br>
 
 ## Summary 
+After reviewing and checking 6 different machine learning methods the best one suited to the data is the ```EasyEnsembleClassifier``` module from ```imblearn.ensemble```. This method had the highest accuracy score of 93.16%. 
 
 ## Recommendations
+There could be other, more efficent machine learning modules yet discovered which can better suite the needs of the project. Determining the parameters will ultimately yield if this module will work. Knowning the offical accuracy range (96% to 99%) that is required to meet the needs of the department or group can help focus on 2 or 3 different machine learning methods which could be tested against real data for speed and accuracy. 
