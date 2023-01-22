@@ -34,7 +34,6 @@ Result from RandomUnderSampler </br>
 * Recall = 59% </br>
 ![RandomUnderSampler](/images/RandomUnderSampler.jpg) </br>
 
-</br>
 Result from SMOTEENN </br>
 * Accuracy = 64.61% </br>
 * Precision = 99% </br>
@@ -47,7 +46,6 @@ Result from BalancedRandomForestClassifier </br>
 * Recall = 87% </br>
 </br>![BalancedRandomForestClassifier](/images/BalancedRandomForestClassifier.jpg) </br>
 
-</br>
 Result from EasyEnsembleClassifier </br>
 * Accuracy = 93.16% </br>
 * Precision = 99% </br>
